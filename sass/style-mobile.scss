@@ -19,19 +19,19 @@
 
 /* BG */
 
-	@include bg(500px);
-	
+	@include bg(1080px);
+
 /* Header */
-	
+
 	#header {
 		h1 {
 			font-size: 2.5em;
 		}
-		
+
 		p {
 			font-size: 1em;
 		}
-		
+
 		nav {
 			font-size: 1em;
 
@@ -39,7 +39,7 @@
 				&:hover {
 					font-size: 1em;
 				}
-				
+
 				&:active {
 					font-size: 1em;
 				}
