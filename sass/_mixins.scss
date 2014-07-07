@@ -41,7 +41,7 @@
 	}
 
 	#bg {
-		background-size: $width auto;
+		background-size: $width 100%;
 		width: ($width * 3);
 	}
 }
