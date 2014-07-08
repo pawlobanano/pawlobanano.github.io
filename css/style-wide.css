@@ -112,6 +112,6 @@ body, input, select, textarea {
 
 /* line 43, ../sass/_mixins.scss */
 #bg {
-  background-size: 1300px auto;
+  background-size: 1300px 100%;
   width: 3900px;
 }

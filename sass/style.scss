@@ -70,7 +70,7 @@
 		@include vendor-property('transform', 'translate3d(0,0,0)');
 		background-color: #000;
 		background-image: url('images/bg.jpg');
-		background-position: bottom left;
+		background-position: center left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -79,7 +79,7 @@
 		top: 0;
 	}
 
-	@include bg(2160px);
+	@include bg(1080px);
 
 /* Overlay */
 

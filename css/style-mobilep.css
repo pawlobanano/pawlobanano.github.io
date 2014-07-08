@@ -106,6 +106,6 @@
 
 /* line 43, ../sass/_mixins.scss */
 #bg {
-  background-size: 750px auto;
+  background-size: 750px 100%;
   width: 2250px;
 }

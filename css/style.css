@@ -143,7 +143,7 @@ a:hover {
   transform: translate3d(0,0,0);
   background-color: #000;
   background-image: url("images/bg.jpg");
-  background-position: bottom left;
+  background-position: center left;
   background-repeat: repeat-x;
   height: 100%;
   left: 0;
@@ -164,11 +164,11 @@ a:hover {
 
   /* line 40, ../sass/_mixins.scss */
   100% {
-    -moz-transform: translate3d(-2160px,0,0);
-    -webkit-transform: translate3d(-2160px,0,0);
-    -o-transform: translate3d(-2160px,0,0);
-    -ms-transform: translate3d(-2160px,0,0);
-    transform: translate3d(-2160px,0,0);
+    -moz-transform: translate3d(-1080px,0,0);
+    -webkit-transform: translate3d(-1080px,0,0);
+    -o-transform: translate3d(-1080px,0,0);
+    -ms-transform: translate3d(-1080px,0,0);
+    transform: translate3d(-1080px,0,0);
   }
 }
 
@@ -184,11 +184,11 @@ a:hover {
 
   /* line 40, ../sass/_mixins.scss */
   100% {
-    -moz-transform: translate3d(-2160px,0,0);
-    -webkit-transform: translate3d(-2160px,0,0);
-    -o-transform: translate3d(-2160px,0,0);
-    -ms-transform: translate3d(-2160px,0,0);
-    transform: translate3d(-2160px,0,0);
+    -moz-transform: translate3d(-1080px,0,0);
+    -webkit-transform: translate3d(-1080px,0,0);
+    -o-transform: translate3d(-1080px,0,0);
+    -ms-transform: translate3d(-1080px,0,0);
+    transform: translate3d(-1080px,0,0);
   }
 }
 
@@ -204,11 +204,11 @@ a:hover {
 
   /* line 40, ../sass/_mixins.scss */
   100% {
-    -moz-transform: translate3d(-2160px,0,0);
-    -webkit-transform: translate3d(-2160px,0,0);
-    -o-transform: translate3d(-2160px,0,0);
-    -ms-transform: translate3d(-2160px,0,0);
-    transform: translate3d(-2160px,0,0);
+    -moz-transform: translate3d(-1080px,0,0);
+    -webkit-transform: translate3d(-1080px,0,0);
+    -o-transform: translate3d(-1080px,0,0);
+    -ms-transform: translate3d(-1080px,0,0);
+    transform: translate3d(-1080px,0,0);
   }
 }
 
@@ -224,11 +224,11 @@ a:hover {
 
   /* line 40, ../sass/_mixins.scss */
   100% {
-    -moz-transform: translate3d(-2160px,0,0);
-    -webkit-transform: translate3d(-2160px,0,0);
-    -o-transform: translate3d(-2160px,0,0);
-    -ms-transform: translate3d(-2160px,0,0);
-    transform: translate3d(-2160px,0,0);
+    -moz-transform: translate3d(-1080px,0,0);
+    -webkit-transform: translate3d(-1080px,0,0);
+    -o-transform: translate3d(-1080px,0,0);
+    -ms-transform: translate3d(-1080px,0,0);
+    transform: translate3d(-1080px,0,0);
   }
 }
 
@@ -244,18 +244,18 @@ a:hover {
 
   /* line 40, ../sass/_mixins.scss */
   100% {
-    -moz-transform: translate3d(-2160px,0,0);
-    -webkit-transform: translate3d(-2160px,0,0);
-    -o-transform: translate3d(-2160px,0,0);
-    -ms-transform: translate3d(-2160px,0,0);
-    transform: translate3d(-2160px,0,0);
+    -moz-transform: translate3d(-1080px,0,0);
+    -webkit-transform: translate3d(-1080px,0,0);
+    -o-transform: translate3d(-1080px,0,0);
+    -ms-transform: translate3d(-1080px,0,0);
+    transform: translate3d(-1080px,0,0);
   }
 }
 
 /* line 43, ../sass/_mixins.scss */
 #bg {
-  background-size: 2160px auto;
-  width: 6480px;
+  background-size: 1080px 100%;
+  width: 3240px;
 }
 
 /* Overlay */
