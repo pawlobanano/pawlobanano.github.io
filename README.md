@@ -13,6 +13,8 @@ http://hdwallpaperuniverse.com
 
 ## A tip for Compass
 
+Compass works out of the box, with help from 'config.rb' file. You just need to start:
 ```
-compass watch --sass-dir "sass" --css-dir "css" --javascripts-dir "js" --images-dir "css/images"
+compass watch
 ```
+in your terminal/console.
