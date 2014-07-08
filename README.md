@@ -13,7 +13,7 @@ http://hdwallpaperuniverse.com
 
 ## A tip for Compass
 
-Compass works out of the box, with help from 'config.rb' file. You just need to start:
+Compass works out of the box with help from 'config.rb' file. You just need to start:
 ```
 compass watch
 ```
