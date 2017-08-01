@@ -17,4 +17,3 @@ Compass works out of the box with help from 'config.rb' file. You just need to s
 ```
 compass watch
 ```
-in your terminal/console.
